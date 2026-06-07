@@ -1,7 +1,7 @@
 # ABP LOGO BRIEF — v1.1
 **Date:** 2026-06-06 (updated from v1, 2026-05-31)
 **Status:** Mark LOCKED. Banner LOCKED. Governs the ABP mark, WR mark, and applications.
-**Storage:** word-reimagined-canon/00-STUDIO/brand/ABP_LOGO_BRIEF_v1_1.md
+**Storage:** Canonical home is word-reimagined-canon/00-STUDIO/brand/ — this is a convenience mirror.
 
 ---
 
